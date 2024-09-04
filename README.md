@@ -26,7 +26,7 @@
 
 下面是最便宜的代理服务器，购买地址: https://s.ovsea.link
 
-    ![](images/cheap.jpg)
+![](images/cheap.jpg)
 
 ### 相关的下载
 在项目目录的software里面有文章中说到的软件， 有任何的技术问题也可加入上面的群进行交流
